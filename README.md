@@ -2,6 +2,8 @@
 
 A comprehensive collection of C programming questions, exercises, and solutions designed to make learning C language easier and less overwhelming for beginners.
 
+> **🎉 Recently Updated!** This repository has been completely restructured with comprehensive learning materials, progressive exercises, and detailed solutions. Perfect for beginners who found C programming "quite hectic" - we've made it organized and approachable!
+
 ## 📚 About This Repository
 
 This repository contains carefully curated C programming questions organized by difficulty levels and topics. Whether you're just starting with C or looking to strengthen your fundamentals, you'll find structured exercises that progress from basic concepts to more advanced topics.
