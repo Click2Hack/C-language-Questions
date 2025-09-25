@@ -33,7 +33,7 @@ int main (){
     printf("enter number of columns  u want to print maze");
     scanf  ("%d", &columns);
     char path[100];
- total =  maze ( 0, 0 , rows - 1 , columns-1 ,path,0);
+ total =  maze ( 1, 1 , rows  , columns ,path,0);
 
  printf( " total number of possibilites are as follows :%d ", total );
 
